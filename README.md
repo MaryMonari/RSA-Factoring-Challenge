@@ -1,0 +1,2 @@
+RSA (Rivest–Shamir–Adleman) is a public-key cryptosystem that is widely used for secure data transmission. An RSA user creates and publishes a public key based on two large prime numbers, along with an auxiliary value. The prime numbers are kept secret. Messages can be encrypted by anyone, via the public key, but can only be decoded by someone who knows the prime numbers. 
+The security of RSA relies on the practical difficulty of factoring the product of two large prime numbers, the "factoring problem". 
